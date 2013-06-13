@@ -9,6 +9,5 @@ The task was to implement the following methods in a balanced AVL tree in Java:
 * AvlNode rotateLeft(AvlNode n)
 * AvlNode rotateRight(AvlNode n)
 
-## Execution
-
-java ads1ss12.pa.Main input > output
+## Usage
+    java ads1ss12.pa.Main input > output
